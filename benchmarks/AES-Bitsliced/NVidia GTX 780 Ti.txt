@@ -1,0 +1,30 @@
+AES ECB on generated input 0
+Creating 256 threads over 1 blocks
+GPU encryption throughput: 87780897.864605 bytes/second
+AES ECB on generated input 1
+Creating 256 threads over 1 blocks
+GPU encryption throughput: 7621951344.428399 bytes/second
+AES ECB on generated input 2
+Creating 1024 threads over 4 blocks
+GPU encryption throughput: 35511363359.005333 bytes/second
+AES ECB on generated input 3
+Creating 1792 threads over 7 blocks
+GPU encryption throughput: 74404762495.417877 bytes/second
+AES ECB on generated input 4
+Creating 7936 threads over 31 blocks
+GPU encryption throughput: 318877561443.422363 bytes/second
+AES ECB on generated input 5
+Creating 15872 threads over 62 blocks
+GPU encryption throughput: 664893597792.195801 bytes/second
+AES ECB on generated input 6
+Creating 78336 threads over 306 blocks
+GPU encryption throughput: 3472222169583.813965 bytes/second
+AES ECB on generated input 7
+Creating 156416 threads over 611 blocks
+GPU encryption throughput: 6944444339167.627930 bytes/second
+AES ECB on generated input 8
+Creating 781312 threads over 3052 blocks
+GPU encryption throughput: 33967390550619.152344 bytes/second
+AES ECB on generated input 9
+Creating 1250048 threads over 4883 blocks
+GPU encryption throughput: 54347824880990.640625 bytes/second

@@ -1,0 +1,208 @@
+tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_1KB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000103 seconds to encrypt a 1024 byte size input.
+                |This equals 9941747.572816 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000051 seconds to decrypt a 1024 byte size input.
+                |This equals 20117878.192534 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000049 seconds to encrypt a 1024 byte size input.
+                |This equals 20770791.075051 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000048 seconds to decrypt a 1024 byte size input.
+                |This equals 21113402.061856 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000706 seconds to encrypt a 1024 byte size input.
+                |This equals 1450219.515649 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000484 seconds to decrypt a 1024 byte size input.
+                |This equals 2117452.440033 bytes/second throughput.
+				
+tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_10KB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.001410 seconds to encrypt a 10240 byte size input.
+                |This equals 7260351.673284 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000552 seconds to decrypt a 10240 byte size input.
+                |This equals 18564176.939811 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000657 seconds to encrypt a 10240 byte size input.
+                |This equals 15590742.996346 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000507 seconds to decrypt a 10240 byte size input.
+                |This equals 20213185.945519 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000497 seconds to encrypt a 10240 byte size input.
+                |This equals 20607768.162608 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000549 seconds to decrypt a 10240 byte size input.
+                |This equals 18658892.128280 bytes/second throughput.
+				
+tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_50KB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000683 seconds to encrypt a 51200 byte size input.
+                |This equals 74974373.993264 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000579 seconds to decrypt a 51200 byte size input.
+                |This equals 88367276.492924 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000349 seconds to encrypt a 51200 byte size input.
+                |This equals 146704871.060172 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000547 seconds to decrypt a 51200 byte size input.
+                |This equals 93618577.436460 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000274 seconds to encrypt a 51200 byte size input.
+                |This equals 186725018.234865 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000496 seconds to decrypt a 51200 byte size input.
+                |This equals 103204998.992139 bytes/second throughput.
+				
+tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_100KB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000616 seconds to encrypt a 102400 byte size input.
+                |This equals 166260756.616334 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000493 seconds to decrypt a 102400 byte size input.
+                |This equals 207707910.750507 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000353 seconds to encrypt a 102400 byte size input.
+                |This equals 290084985.835694 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000636 seconds to decrypt a 102400 byte size input.
+                |This equals 161082271.511719 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000354 seconds to encrypt a 102400 byte size input.
+                |This equals 289510884.930732 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000497 seconds to decrypt a 102400 byte size input.
+                |This equals 206119162.640902 bytes/second throughput.
+				
+tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_500KB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000624 seconds to encrypt a 512000 byte size input.
+                |This equals 819987187.700192 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000551 seconds to decrypt a 512000 byte size input.
+                |This equals 929050988.931228 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000349 seconds to encrypt a 512000 byte size input.
+                |This equals 1465788720.297738 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000499 seconds to decrypt a 512000 byte size input.
+                |This equals 1025641025.641026 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000436 seconds to encrypt a 512000 byte size input.
+                |This equals 1174311926.605505 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000481 seconds to decrypt a 512000 byte size input.
+                |This equals 1064006650.041563 bytes/second throughput.
+				
+tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_1MB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000652 seconds to encrypt a 1048576 byte size input.
+                |This equals 1608985729.630198 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000580 seconds to decrypt a 1048576 byte size input.
+                |This equals 1806643694.004135 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000410 seconds to encrypt a 1048576 byte size input.
+                |This equals 2557502439.024390 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000515 seconds to decrypt a 1048576 byte size input.
+                |This equals 2037652545.666537 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000363 seconds to encrypt a 1048576 byte size input.
+                |This equals 2890231532.524807 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000516 seconds to decrypt a 1048576 byte size input.
+                |This equals 2033306185.766919 bytes/second throughput.
+				
+tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_4MB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000671 seconds to encrypt a 4194304 byte size input.
+                |This equals 6248032176.374199 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000501 seconds to decrypt a 4194304 byte size input.
+                |This equals 8366854179.134252 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000971 seconds to encrypt a 4194304 byte size input.
+                |This equals 4321351741.191016 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000551 seconds to decrypt a 4194304 byte size input.
+                |This equals 7614931009.440813 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000425 seconds to encrypt a 4194304 byte size input.
+                |This equals 9868950588.235294 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000727 seconds to decrypt a 4194304 byte size input.
+                |This equals 5765366323.024055 bytes/second throughput.
+				
+tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_10MB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000621 seconds to encrypt a 10485760 byte size input.
+                |This equals 16874412616.672029 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000496 seconds to decrypt a 10485760 byte size input.
+                |This equals 21149173053.650665 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000996 seconds to encrypt a 10485760 byte size input.
+                |This equals 10529985940.951998 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000490 seconds to decrypt a 10485760 byte size input.
+                |This equals 21403878342.518879 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000424 seconds to encrypt a 10485760 byte size input.
+                |This equals 24742236904.200096 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000746 seconds to decrypt a 10485760 byte size input.
+                |This equals 14057862984.314251 bytes/second throughput.
+				
+tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop$ ./test_aesni_50MB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000666 seconds to encrypt a 52428800 byte size input.
+                |This equals 78674669867.947174 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000535 seconds to decrypt a 52428800 byte size input.
+                |This equals 97942835793.013275 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000500 seconds to encrypt a 52428800 byte size input.
+                |This equals 104815673730.507797 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000534 seconds to decrypt a 52428800 byte size input.
+                |This equals 98162890844.411148 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000495 seconds to encrypt a 52428800 byte size input.
+                |This equals 105852614577.024033 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000495 seconds to decrypt a 52428800 byte size input.
+                |This equals 105831247476.786438 bytes/second throughput.
+tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop$ ./test_aesni_80MB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.001164 seconds to encrypt a 83886080 byte size input.
+                |This equals 72091852870.402191 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000540 seconds to decrypt a 83886080 byte size input.
+                |This equals 155258337960.392395 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000504 seconds to encrypt a 83886080 byte size input.
+                |This equals 166275678889.990112 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000586 seconds to decrypt a 83886080 byte size input.
+                |This equals 143077059525.840027 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000464 seconds to encrypt a 83886080 byte size input.
+                |This equals 180711072813.442474 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000485 seconds to decrypt a 83886080 byte size input.
+                |This equals 172925334982.477844 bytes/second throughput.

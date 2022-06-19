@@ -1,0 +1,209 @@
+└─$ ./test_aesni_1KB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000024 seconds to encrypt a 1024 byte size input.
+                |This equals 42969241.743947 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000002 seconds to decrypt a 1024 byte size input.
+                |This equals 545260915.867945 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000012 seconds to encrypt a 1024 byte size input.
+                |This equals 85525766.307525 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000014 seconds to decrypt a 1024 byte size input.
+                |This equals 75023811.268225 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000002 seconds to encrypt a 1024 byte size input.
+                |This equals 655989750.160154 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 1024 byte size input.
+                |This equals 1178365937.859609 bytes/second throughput.
+				
+└─$ ./test_aesni_10KB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000017 seconds to encrypt a 10240 byte size input.
+                |This equals 612660045.470863 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 10240 byte size input.
+                |This equals 11082251082.251083 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.000001 seconds to encrypt a 10240 byte size input.
+                |This equals 9069973427.812223 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 10240 byte size input.
+                |This equals 13763440860.215054 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000001 seconds to encrypt a 10240 byte size input.
+                |This equals 14008207934.336527 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 10240 byte size input.
+                |This equals 12549019607.843138 bytes/second throughput.
+				
+└─$ ./test_aesni_50KB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000016 seconds to encrypt a 51200 byte size input.
+                |This equals 3252652309.256083 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 51200 byte size input.
+                |This equals 69849931787.175995 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.003627 seconds to encrypt a 51200 byte size input.
+                |This equals 14116158.893911 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000003 seconds to decrypt a 51200 byte size input.
+                |This equals 17152428810.720268 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.000014 seconds to encrypt a 51200 byte size input.
+                |This equals 3552595059.672495 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000013 seconds to decrypt a 51200 byte size input.
+                |This equals 3998750390.502968 bytes/second throughput.
+				
+└─$ ./test_aesni_100KB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.000027 seconds to encrypt a 102400 byte size input.
+                |This equals 3803439438.398396 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 102400 byte size input.
+                |This equals 131788931788.931778 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.002601 seconds to encrypt a 102400 byte size input.
+                |This equals 39376709.752888 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 102400 byte size input.
+                |This equals 119906323185.011703 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.001609 seconds to encrypt a 102400 byte size input.
+                |This equals 63653842.448037 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000004 seconds to decrypt a 102400 byte size input.
+                |This equals 27541689080.150620 bytes/second throughput.
+				
+└─$ ./test_aesni_500KB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.003550 seconds to encrypt a 512000 byte size input.
+                |This equals 144226205.281778 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 512000 byte size input.
+                |This equals 640000000000.000000 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.002366 seconds to encrypt a 512000 byte size input.
+                |This equals 216373836.515198 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000002 seconds to decrypt a 512000 byte size input.
+                |This equals 206785137318.255249 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.003967 seconds to encrypt a 512000 byte size input.
+                |This equals 129060522.579164 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 512000 byte size input.
+                |This equals 450307827616.534729 bytes/second throughput.
+				
+└─$ ./test_aesni_1MB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.003307 seconds to encrypt a 1048576 byte size input.
+                |This equals 317086151.672618 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000002 seconds to decrypt a 1048576 byte size input.
+                |This equals 430980682285.244568 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.002728 seconds to encrypt a 1048576 byte size input.
+                |This equals 384334369.024419 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 1048576 byte size input.
+                |This equals 1107260823653.643066 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.004410 seconds to encrypt a 1048576 byte size input.
+                |This equals 237796978.054188 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000014 seconds to decrypt a 1048576 byte size input.
+                |This equals 73594609769.792252 bytes/second throughput.
+				
+└─$ ./test_aesni_4MB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.002777 seconds to encrypt a 4194304 byte size input.
+                |This equals 1510432174.122849 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000002 seconds to decrypt a 4194304 byte size input.
+                |This equals 2606776880049.720215 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.003357 seconds to encrypt a 4194304 byte size input.
+                |This equals 1249283367.209076 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 4194304 byte size input.
+                |This equals 4593980284775.465820 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.006167 seconds to encrypt a 4194304 byte size input.
+                |This equals 680168288.098015 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 4194304 byte size input.
+                |This equals 3524625210084.033691 bytes/second throughput.
+				
+└─$ ./test_aesni_10MB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.006466 seconds to encrypt a 10485760 byte size input.
+                |This equals 1621644108.863278 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 10485760 byte size input.
+                |This equals 11997437070938.214844 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.004015 seconds to encrypt a 10485760 byte size input.
+                |This equals 2611875963.191782 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 10485760 byte size input.
+                |This equals 9864308560677.328125 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.003064 seconds to encrypt a 10485760 byte size input.
+                |This equals 3421711625.927809 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000003 seconds to decrypt a 10485760 byte size input.
+                |This equals 3480172585462.993652 bytes/second throughput.
+				
+└─$ ./test_aesni_50MB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.003092 seconds to encrypt a 52428800 byte size input.
+                |This equals 16957266903.398937 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000003 seconds to decrypt a 52428800 byte size input.
+                |This equals 18396070175438.597656 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.002943 seconds to encrypt a 52428800 byte size input.
+                |This equals 17816659892.805344 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000002 seconds to decrypt a 52428800 byte size input.
+                |This equals 34813280212483.398438 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.003512 seconds to encrypt a 52428800 byte size input.
+                |This equals 14926701470.810556 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000004 seconds to decrypt a 52428800 byte size input.
+                |This equals 12923046586147.398438 bytes/second throughput.
+				
+└─$ ./test_aesni_80MB
+[+] Testing AES-ECB...
+[+]     AES-128-ECB Encryption: PASSED
+                |It took 0.003490 seconds to encrypt a 83886080 byte size input.
+                |This equals 24034824475.121548 bytes/second throughput.
+[+]     AES-128-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 83886080 byte size input.
+                |This equals 99627173396674.578125 bytes/second throughput.
+[+]     AES-192-ECB Encryption: PASSED
+                |It took 0.003271 seconds to encrypt a 83886080 byte size input.
+                |This equals 25646192574.638523 bytes/second throughput.
+[+]     AES-192-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 83886080 byte size input.
+                |This equals 86838592132505.187500 bytes/second throughput.
+[+]     AES-256-ECB Encryption: PASSED
+                |It took 0.002522 seconds to encrypt a 83886080 byte size input.
+                |This equals 33268284828.532822 bytes/second throughput.
+[+]     AES-256-ECB Decryption: PASSED
+                |It took 0.000001 seconds to decrypt a 83886080 byte size input.
+                |This equals 95433538111490.328125 bytes/second throughput.
