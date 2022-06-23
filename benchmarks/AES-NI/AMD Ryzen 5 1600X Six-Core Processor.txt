@@ -1,4 +1,4 @@
-tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_1KB
+./test_aesni_1KB
 [+] Testing AES-ECB...
 [+]     AES-128-ECB Encryption: PASSED
                 |It took 0.000103 seconds to encrypt a 1024 byte size input.
@@ -19,7 +19,7 @@ tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesn
                 |It took 0.000484 seconds to decrypt a 1024 byte size input.
                 |This equals 2117452.440033 bytes/second throughput.
 				
-tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_10KB
+./test_aesni_10KB
 [+] Testing AES-ECB...
 [+]     AES-128-ECB Encryption: PASSED
                 |It took 0.001410 seconds to encrypt a 10240 byte size input.
@@ -40,7 +40,7 @@ tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesn
                 |It took 0.000549 seconds to decrypt a 10240 byte size input.
                 |This equals 18658892.128280 bytes/second throughput.
 				
-tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_50KB
+./test_aesni_50KB
 [+] Testing AES-ECB...
 [+]     AES-128-ECB Encryption: PASSED
                 |It took 0.000683 seconds to encrypt a 51200 byte size input.
@@ -61,7 +61,7 @@ tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesn
                 |It took 0.000496 seconds to decrypt a 51200 byte size input.
                 |This equals 103204998.992139 bytes/second throughput.
 				
-tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_100KB
+./test_aesni_100KB
 [+] Testing AES-ECB...
 [+]     AES-128-ECB Encryption: PASSED
                 |It took 0.000616 seconds to encrypt a 102400 byte size input.
@@ -82,7 +82,7 @@ tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesn
                 |It took 0.000497 seconds to decrypt a 102400 byte size input.
                 |This equals 206119162.640902 bytes/second throughput.
 				
-tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_500KB
+./test_aesni_500KB
 [+] Testing AES-ECB...
 [+]     AES-128-ECB Encryption: PASSED
                 |It took 0.000624 seconds to encrypt a 512000 byte size input.
@@ -103,7 +103,7 @@ tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesn
                 |It took 0.000481 seconds to decrypt a 512000 byte size input.
                 |This equals 1064006650.041563 bytes/second throughput.
 				
-tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_1MB
+./test_aesni_1MB
 [+] Testing AES-ECB...
 [+]     AES-128-ECB Encryption: PASSED
                 |It took 0.000652 seconds to encrypt a 1048576 byte size input.
@@ -124,7 +124,7 @@ tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesn
                 |It took 0.000516 seconds to decrypt a 1048576 byte size input.
                 |This equals 2033306185.766919 bytes/second throughput.
 				
-tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_4MB
+./test_aesni_4MB
 [+] Testing AES-ECB...
 [+]     AES-128-ECB Encryption: PASSED
                 |It took 0.000671 seconds to encrypt a 4194304 byte size input.
@@ -145,7 +145,7 @@ tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesn
                 |It took 0.000727 seconds to decrypt a 4194304 byte size input.
                 |This equals 5765366323.024055 bytes/second throughput.
 				
-tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesni_10MB
+./test_aesni_10MB
 [+] Testing AES-ECB...
 [+]     AES-128-ECB Encryption: PASSED
                 |It took 0.000621 seconds to encrypt a 10485760 byte size input.
@@ -166,7 +166,7 @@ tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop/mod$ ./test_aesn
                 |It took 0.000746 seconds to decrypt a 10485760 byte size input.
                 |This equals 14057862984.314251 bytes/second throughput.
 				
-tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop$ ./test_aesni_50MB
+./test_aesni_50MB
 [+] Testing AES-ECB...
 [+]     AES-128-ECB Encryption: PASSED
                 |It took 0.000666 seconds to encrypt a 52428800 byte size input.
@@ -186,7 +186,7 @@ tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop$ ./test_aesni_50
 [+]     AES-256-ECB Decryption: PASSED
                 |It took 0.000495 seconds to decrypt a 52428800 byte size input.
                 |This equals 105831247476.786438 bytes/second throughput.
-tim@DESKTOP-RSVDJD2:/mnt/c/Users/Tim/Downloads/Telegram Desktop$ ./test_aesni_80MB
+./test_aesni_80MB
 [+] Testing AES-ECB...
 [+]     AES-128-ECB Encryption: PASSED
                 |It took 0.001164 seconds to encrypt a 83886080 byte size input.
