@@ -1,4 +1,3 @@
-C:\Users\f\Desktop>"bitslice now working.exe"
 AES ECB on generated input 0
 Creating 256 threads over 1 blocks
 GPU encryption throughput: 87725.700571 bytes/second
